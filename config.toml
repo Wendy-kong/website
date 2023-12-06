@@ -40,7 +40,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
+    subtitle  = "A simple website that I am working on"
 
     [languages.en.params.logo]
       logoText = "Wendy's page"
